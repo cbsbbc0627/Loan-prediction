@@ -23,4 +23,6 @@ We intend to use Loan Prediction Training Dataset to predict those potential non
 We apply 5 models to test the dataset including DecisonTreeClassifer, logiticsRegression, RandomForestClassifer, XGBClassifer, and LightGBM. We decide to use AUC and accuracy to select best classifier where AUC is given priority over accuracy. We also checkout confusion matrix, recall and precision.
 We propose a DecisionTree classifier to predict. The accuracy score is 0.89 and the AUC is 0.91.
 
+In this project, I upload the detail python code along with database for download need. 
+
 The dataset link: https://www.kaggle.com/datasets/subhamjain/loan-prediction-based-on-customer-behavior?sort=votes 
